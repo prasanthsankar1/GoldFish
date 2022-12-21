@@ -9,5 +9,6 @@ public class Hello_Test {
 		System.out.println("helloworld");
 		System.out.println("goodworld");
 		System.out.println("namastey");
+		System.out.peintln("bye");
 	}
 }
